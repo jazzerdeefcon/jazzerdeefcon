@@ -5,7 +5,6 @@
 
  ### 👨🏻‍💻 &nbsp;Soy un entusiasta del scripting y apasionado por la seguridad informática. Me considero un experto de nada pero curioso de todo. Disfruto sumergirme en diferentes aspectos de la tecnología y siempre estoy abierto a nuevos desafíos y oportunidades de aprendizaje.
 <p style="text-align: justify;">
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.
 
 💡 &nbsp;Mi curiosidad me impulsa a explorar diversas áreas de este campo en constante evolución. Disfruto aprendiendo y sumergiéndome en nuevos desafíos, encontrando siempre fascinación en la tecnología y sus posibilidades ilimitadas.
 
