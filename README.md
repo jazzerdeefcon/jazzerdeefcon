@@ -17,7 +17,7 @@
 
 ****
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Technologies and Tools
 
 ![Static Badge](https://img.shields.io/badge/python-%2360427D%20?style=for-the-badge&logo=python&logoColor=%23FFAE00)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -44,12 +44,7 @@
 ![Static Badge](https://img.shields.io/badge/Debian-%232E2E2E%20?style=for-the-badge&logo=debian&logoColor=%23A81D33)
 ![Static Badge](https://img.shields.io/badge/HTB-%23161618%20?style=for-the-badge&logo=hack%20the%20box&logoColor=%239FEF00)
 ![Static Badge](https://img.shields.io/badge/CentOs-%23427FAF%20?style=for-the-badge&logo=centos&logoColor=%23262577)
-
-
-
-
-
-### Programming Languages
+![Static Badge](https://img.shields.io/badge/MariaDB-%23093061%20?style=for-the-badge&logo=mariadb&logoColor=%23ffffff)
 
 <p>
 
