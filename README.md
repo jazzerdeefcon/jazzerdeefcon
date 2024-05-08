@@ -3,16 +3,16 @@
 ![snake gif](https://github.com/jazzerdeefcon/jazzerdeefcon/blob/main/grid-snake.svg)
 
 
- ### 👨🏻‍💻 &nbsp;Soy un entusiasta del scripting y apasionado por la seguridad informática. Me considero un experto de nada pero curioso de todo. Disfruto sumergirme en diferentes aspectos de la tecnología y siempre estoy abierto a nuevos desafíos y oportunidades de aprendizaje.
+ ### 👨🏻‍💻 &nbsp; I'm passionate about scripting and cybersecurity. I consider myself an expert in nothing but curious about everything. I enjoy diving into different aspects of technology and I'm always open to new challenges and learning opportunities.
 <p style="text-align: justify;">
 
-💡 &nbsp;Mi curiosidad me impulsa a explorar diversas áreas de este campo en constante evolución. Disfruto aprendiendo y sumergiéndome en nuevos desafíos, encontrando siempre fascinación en la tecnología y sus posibilidades ilimitadas.
+💡 &nbsp; My curiosity drives me to explore various areas of this constantly evolving field. I enjoy learning and immersing myself in new challenges, always finding fascination in technology and its limitless possibilities.
 
-🎓 &nbsp;Actualmente me encuentro cursando algunos cursos sobre desarrollo, como Python, Django, mySQL.
+🎓 &nbsp; Currently, I'm taking courses in development, such as Python, Django, and MySQL.
 
-🌱 &nbsp;Sigo en constante estudio en temas de seguridad informatica, lo que abarca varios campos como la programacion, protocolos, redes, herramientas, analisis, etc...
+🌱 &nbsp;I continue to study in the field of cybersecurity, covering various areas such as programming, protocols, networks, tools, analysis, etc.
 
-✍️ &nbsp;En mi tiempo libre practico un poco de scripting creandome herramientas o automatizando tareas que posteriormente me son utiles para contuniar mi aprendizaje.
+✍️ &nbsp;In my free time, I practice scripting by creating tools or automating tasks that are useful for my continued learning.
 </p>
 
 ****
