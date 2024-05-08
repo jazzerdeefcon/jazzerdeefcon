@@ -5,9 +5,9 @@
 ### 👨🏻‍💻 &nbsp;Soy un entusiasta del scripting y apasionado por la seguridad informática. Me considero un experto de nada pero curioso de todo. Disfruto sumergirme en diferentes aspectos de la tecnología y siempre estoy abierto a nuevos desafíos y oportunidades de aprendizaje.
 
 👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
+💡 &nbsp;Mi curiosidad me impulsa a explorar diversas áreas de este campo en constante evolución. Disfruto aprendiendo y sumergiéndome en nuevos desafíos, encontrando siempre fascinación en la tecnología y sus posibilidades ilimitadas .\
+🎓 &nbsp;Actualmente me encuentro cursando algunos cursos sobre desarrollo, como Python, Django, mySQL.\
+🌱 &nbsp;Sigo en constante estudio en temas de seguridad informatica, lo que abarca varios campos como la programacion, protocolos, redes, herramientas, analisis, etc...\
 ✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
